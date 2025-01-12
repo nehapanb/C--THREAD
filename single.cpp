@@ -13,6 +13,7 @@ void show2()
     {
         cout<<i<<"\t";
     }
+    
 }
 int main()
 {
